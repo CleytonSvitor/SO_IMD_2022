@@ -1,6 +1,6 @@
 # Processos, Memória compartilhada e Sincronização
 
-Projeto desenvolvido para a disciplina de Sistemas Operacionais em que realizamos a multiplicação de matrizes, programação paralela, com o objetivo de aplicar os conceitos vistos em aula, verificarmos o tempo de execução sequencial, paralelo usando threads e paralelo usando processos e, ao final, discutir as vantagens e desvantagens das soluções.
+Projeto desenvolvido para a disciplina de Sistemas Operacionais em que realizamos a multiplicação de matrizes, de forma sequencial e paralela com processos e threads, com o objetivo de aplicar os conceitos vistos nas aulas.
 
 ## Começando
 
